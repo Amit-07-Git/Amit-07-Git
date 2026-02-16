@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Amit! 👋
 
-<!--
-**Amit-07-Git/Amit-07-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Computer Science Student | Security Enthusiast
+I bridge the gap between software development and cybersecurity. Currently focusing on building secure, scalable applications in Java and Python.
 
-Here are some ideas to get you started:
+- 🎓 **Studying:** Computer Science & Engineering at Siksha 'O' Anusandhan University
+- 🔭 **Current Project:** Building a Network Packet Analyzer using Python
+- 🧠 **Learning:** Network Defense, Linux Hardening, and Advanced Data Structures
+- 🛡️ **Goal:** To secure digital infrastructures while writing clean, efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+| Category | Skills |
+| --- | --- |
+| **Languages** | Java, Python, C++, SQL |
+| **Security** | Wireshark, Nmap, Burp Suite, Linux (Kali/Ubuntu) |
+| **Tools** | Git, VS Code, IntelliJ IDEA |
+
+---
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/amit-secure07)
