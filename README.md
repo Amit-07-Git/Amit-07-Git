@@ -27,5 +27,8 @@ I bridge the gap between software development and cybersecurity. Currently focus
   <a href="https://github.com/Amit-07-Git" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
+  <a href="https://leetcode.com/u/Amit-07-Leet/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
 </p>
 
