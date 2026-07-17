@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Amit Kumar
+# Hi 👋, I'm Amit
 
 ### Computer Science Student • Cybersecurity Enthusiast • Exploring AI & Machine Learning
 
