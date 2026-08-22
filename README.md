@@ -54,9 +54,9 @@ I believe technology should not only work—but also be **secure, scalable, and 
 
 ---
 
-## 💭 Favorite Quote
+## 💭 Quote
 
-> *"I'd rather be optimistic and wrong than pessimistic and right."*  
-> **— Elon Musk**
+> *"AI can’t replace humans; AI hallucinates, while humans procrastinate."*  
+> **— Amit**
 
 ---
