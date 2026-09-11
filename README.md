@@ -56,7 +56,7 @@ I believe technology should not only work—but also be **secure, scalable, and 
 
 ## 💭 Quote
 
-> *"AI can’t replace humans; AI hallucinates, while humans procrastinate."*  
+> *"Studying is an option, not the S  olution"*  
 > **— Amit**
 
 ---
