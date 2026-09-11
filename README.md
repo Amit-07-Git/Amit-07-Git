@@ -56,7 +56,7 @@ I believe technology should not only work—but also be **secure, scalable, and 
 
 ## 💭 Quote
 
-> *"Studying is an option, not the S  olution"*  
+> *"Studying is an option, not the Solution"*  
 > **— Amit**
 
 ---
